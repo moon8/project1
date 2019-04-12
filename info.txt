@@ -1,0 +1,31 @@
+Fonts
+Montserrat (Google Fonts) san-serif
+Crimson Text(Google Fonts) serif
+
+Icons
+Font Awesome
+
+Colours
+Yellow #eeb013
+Black #141414
+Light Grey #e4e4e4
+
+<i class="fas fa-diamond"></i>
+<i class="fas fa-magic"></i>
+<i class="fas fa-smile"></i>
+<i class="fas fa-eye"></i>
+<i class="far fa-comments"></i>
+<i class="far fa-bookmark"></i>
+
+<i class="fas fa-angle-left"></i>
+<i class="fas fa-angle-right"></i>
+<i class="fas fa-circle"></i>
+
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-dribbble"></i>
+<i class="fab fa-behance"></i>
+<i class="fab fa-pinterest-p"></i>
+<i class="fab fa-google-plus-g"></i>
+
